@@ -4,7 +4,7 @@
 
 <?php
 
-echo <h3>"ITS PHP YOOOOOOOOOOOOOOOO!"</h3>;
+echo "ITS PHP YOOOOOOOOOOOOOOOO!";
 
 ?>
 
